@@ -1,0 +1,12 @@
+{
+  "name": "totem-panel",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-06",
+  "vars": {"ADMIN_ORIGINS": "https://REEMPLAZAR.vercel.app"},
+  "r2_buckets": [
+    {
+      "binding": "VIDEOS",
+      "bucket_name": "totem-videos"
+    }
+  ]
+}

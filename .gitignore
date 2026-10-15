@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+.env*
+!.env.example
+.dev.vars
+**/config.json
+**/data/
+**/__pycache__/
+.wrangler/
